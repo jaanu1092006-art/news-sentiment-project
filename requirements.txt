@@ -1,0 +1,6 @@
+requests
+python-dotenv
+vaderSentiment
+psycopg2-binary
+streamlit
+pandas 
