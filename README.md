@@ -37,7 +37,7 @@ AWS services are used to automate news collection, store data, and deploy the ap
 
 The Streamlit dashboard displays the latest news articles and their sentiment analysis results.
 
-![News Sentiment Dashboard](images/dashboard.jpeg)
+![News Sentiment Dashboard](images/Dashboard.jpeg)
 
 ## 📂 Project Structure
 
@@ -54,7 +54,7 @@ news-sentiment-project/
 │   └── lambda_function.py
 │
 ├── images/
-│   └── dashboard.jpeg
+│   └── Dashboard.jpeg
 │
 ├── requirements.txt
 ├── Dockerfile
